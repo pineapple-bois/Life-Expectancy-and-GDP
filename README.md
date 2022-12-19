@@ -2,15 +2,12 @@
 
 ### Introduction ###
 
-Gross Domestic Product (GDP) is a broad statistical indicator of economic progress and is often used as a metric for international comparisons of relative wealth. 
-
-GDP can be a poor measure of 'social progress' as it does not take into account;
--  Harm to the environment or distribution of said wealth. 
+Gross Domestic Product (GDP) is a broad statistical indicator of economic progress and is often used as a metric for international comparison of relative wealth. It can be a poor measure of 'social progress' as it does not take into account harm to the environment or the distribution of said wealth. 
 
 
 The project will seek to ascertain (for the nations in the data set);
 
-- Has life expentency increased over time?
+- Has life expectancy increased over time?
 - Has GDP increased over time?
 - What is the average life expectancy?
 - What is the distribution of that life expectancy?
